@@ -1,0 +1,9 @@
+{
+  "name": "luna-threshold-gate",
+  "category": "skill",
+  "zhDesc": "筛选前自检阈值，防止为凑数放宽标准",
+  "enDesc": "Pause before filtering to check if fatigue is loosening the bar.",
+  "motivation": "“高频筛选会造成阈值钝化，纯粹休整也是合理的节律”（共享记忆[fact]）",
+  "skillName": "threshold-gate",
+  "builtAt": "2026-10-30T12:27:08.974Z"
+}
